@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Simple P2P Chat/Scenes/Chat Scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
